@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:treatme_freebies/redeem_provider.dart';
+import 'package:treatme_freebies/providers/redeem_provider.dart';
 
 class RedeemPage extends StatelessWidget {
   const RedeemPage({super.key});

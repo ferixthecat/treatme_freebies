@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:treatme_freebies/redeem_page.dart';
-import 'package:treatme_freebies/freebie_list.dart';
+import 'package:treatme_freebies/pages/redeem_page.dart';
+import 'package:treatme_freebies/widgets/freebie_list.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

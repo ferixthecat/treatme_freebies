@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:treatme_freebies/temp_db.dart';
-import 'package:treatme_freebies/details_cart.dart';
-import 'package:treatme_freebies/details_page.dart';
+import 'package:treatme_freebies/widgets/details_cart.dart';
+import 'package:treatme_freebies/pages/details_page.dart';
 
 class FreebieList extends StatefulWidget {
   const FreebieList({super.key});
